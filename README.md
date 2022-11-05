@@ -1,3 +1,3 @@
 # ICPC-Assiut-University-Training-Standard-JuniorsPhase-1
 
-My solutions with c++
+My solutions with c++ and java
